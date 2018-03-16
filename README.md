@@ -1,0 +1,1 @@
+# sync_ad_groups_with_chef-server
